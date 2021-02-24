@@ -1,0 +1,5 @@
+body {
+    background-image: url("/alien.jpg");
+    background-size:inherit;
+    background-size: 50%;
+}
